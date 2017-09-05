@@ -3,9 +3,9 @@ A chess game written in Python
 
 Prerequisites: 
 
-Python 2.7.12 
+- Python 2.7.12 
 
-PyGame 1.9.1 
+- PyGame 1.9.1 
 
 
 
